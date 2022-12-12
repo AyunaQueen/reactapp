@@ -1,0 +1,18 @@
+Enviar funções para os componentes:
+
+
+no arquivo do componente
+
+export default function Dados(props){
+    return(
+       <section>
+         <p>Canal:{props.canal()}</p>
+       </section>
+    )
+}
+
+em outro arquivo
+  const cnl = () => {
+        return 'CFB Curso'
+    }
+ <Dados canal={cnl}/>

@@ -13,3 +13,8 @@ SRC:
 
 
 PS: Por boas praticas o nome da função tem que ser a mesma do arquivo
+
+export default function App(){
+  return(..)
+  Dessa maneira vc faz a função e já a exporta
+  

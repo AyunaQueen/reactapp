@@ -1,0 +1,14 @@
+-Sempre que queremos usar js no jsx usamos as chaves "{}"
+
+-Para mostra uma imgem vc deve importa ela pra seu
+arquivo e referenciala com {}:
+Exemplo:
+import Imagem from"./imagem/css-3-svgrepo-com.svg"
+export default function Menu(){
+    return(
+        <img src={Imagem}></img>
+    )
+}
+ps:isso serve para imagem dentro do src caso o contrario fazemos:
+<img src="./eu.jpg"/>
+referenciamos diretamente no app.js
