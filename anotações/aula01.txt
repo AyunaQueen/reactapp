@@ -1,0 +1,16 @@
+-Criado pelo Facebook
+-Biblioteca para criação de interfaces de usuário
+-Roda JS no servidor e retorna a página pronta
+-Baseado em JavaScript ES6
+-React só atuliza os componentes que sofreram alterações
+
+
+-Modelo Composicional
+-Natureza Declarativa
+-Fluxo de dados unidirecional
+
+Tudo é JavaScript:
+
+-Todo conteúdo inserido á JavaScript
+-Usamos uma extensão de sintaxe chamada JSX que nos
+possibilita escrever HTML junto de JavaScript

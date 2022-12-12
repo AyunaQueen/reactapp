@@ -1,0 +1,15 @@
+Para começa temos duas pastas importantes:
+-public
+-src
+
+Public:
+  Possui um arquivo html que serve como ponto de partida
+  no caso o index.html.
+A div Root que está localizada no index.html que fica toda a aplicação
+
+SRC:
+  index.js é o arquivo que coloco o que vai ser mostrado e referencia 
+  root fazendo com que o que tenha nele tenha no index.html
+
+
+PS: Por boas praticas o nome da função tem que ser a mesma do arquivo
